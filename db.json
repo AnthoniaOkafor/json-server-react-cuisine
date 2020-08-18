@@ -217,6 +217,14 @@
       "comment": "I am JoJo, Can you help?",
       "date": "2020-08-16T14:28:30.213Z",
       "id": 21
+    },
+    {
+      "dishId": 1,
+      "rating": "5",
+      "author": "mimi",
+      "comment": "nnnnjkk kk",
+      "date": "2020-08-17T19:37:43.076Z",
+      "id": 22
     }
   ],
   "promotions": [
